@@ -1,0 +1,2 @@
+g++ <name of file>.cpp
+./<name of file>.cpp <in.txt
