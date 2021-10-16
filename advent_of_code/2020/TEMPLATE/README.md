@@ -1,0 +1,1 @@
+[--- Day  ---](https://adventofcode.com/2020/day/x)
